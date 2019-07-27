@@ -4,4 +4,4 @@ second_number = 21
 
 sum = first_number + second_number
 
-difference = 
+difference = first_number - second_number
